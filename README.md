@@ -20,7 +20,7 @@ or Download the folder named "pDILI_v1" [Directly Download](https://drive.google
 
 2: Upload this folder (**pDILI_v1**) in your Google Drive. Copy this path. Make sure that ''1_train_pDILI.csv' and '2_test_pDILI.csv' are present in that folder **pDILI_v1**.
 
-3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k-amPhU1Pft8WQn3eKGddSD32aqsOHBa#scrollTo=4SVqxdmO0MQM) and execute it to predict the DILI RISK property of the query molecule as well as visualize the Applicability domain (AD).
+3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SXPN1QfGngGKRZQgvWPytrfZv8q1TX3N#scrollTo=4SVqxdmO0MQM) and execute it to predict the DILI RISK property of the query molecule as well as visualize the Applicability domain (AD).
 
 ---
 Example Smiles:
