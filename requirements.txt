@@ -5,3 +5,4 @@ scikit-learn==1.3.1
 ipython==8.4.0
 streamlit==1.13.0
 mordred
+./streamlit_ketcher-0.0.1-py2.py3-none-any.whl
