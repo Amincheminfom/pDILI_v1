@@ -4,4 +4,4 @@ rdkit-pypi
 scikit-learn
 ipython
 streamlit
-mordred
+mordred==1.2.0
