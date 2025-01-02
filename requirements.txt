@@ -2,6 +2,7 @@ streamlit
 pandas
 scikit-learn
 rdkit
+rdkit-pypi
 mordred
 matplotlib
 numpy
