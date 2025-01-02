@@ -1,0 +1,12 @@
+name: streamlit_app
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - scikit-learn
+  - rdkit
+  - mordred
+  - matplotlib
+  - numpy
