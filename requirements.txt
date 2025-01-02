@@ -5,3 +5,4 @@ scikit-learn
 ipython
 streamlit
 mordred==1.2.0
+matplotlib
