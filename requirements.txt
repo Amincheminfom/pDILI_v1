@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+rdkit==2022.09.1
+mordred
+matplotlib
+numpy
