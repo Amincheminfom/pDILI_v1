@@ -1,7 +1,7 @@
 streamlit
 pandas
 scikit-learn
-pre rdkit-pypi
+rdkit-pypi --pre
 mordred
 matplotlib
 numpy
