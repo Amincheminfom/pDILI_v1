@@ -2,7 +2,7 @@ pip==24.3.1
 streamlit
 pandas
 scikit-learn
-rdkit==2023.9.1
+rdkit-pypi==2021.3.3
 mordred
 matplotlib
 numpy
