@@ -1,12 +1,13 @@
-name: streamlit_app
+name: my_env
 channels:
+  - rdkit
   - conda-forge
 dependencies:
   - python=3.10
-  - streamlit
+  - rdkit
   - pandas
   - scikit-learn
-  - rdkit
+  - streamlit
   - mordred
   - matplotlib
   - numpy
