@@ -1,7 +1,7 @@
 streamlit
 pandas
 scikit-learn
-rdkit-pypi==2023.9.1
+rdkit
 mordred
 matplotlib
 numpy
