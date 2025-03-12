@@ -83,7 +83,7 @@ def generate_2d_image(smiles, img_size=(300, 300)):
         return None
 
 # App title
-st.title("pDILI_v1: predictor of Drug-Induced Liver Injury a Molecule")
+st.title("pDILI_v1: predictor of Drug-Induced Liver Injury")
 
 about_expander = st.expander("What is pDILI_v1?", expanded=True)
 with about_expander:
