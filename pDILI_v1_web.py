@@ -21,7 +21,7 @@ logo_url = "https://raw.githubusercontent.com/Amincheminfom/pDILI_v1/main/pDILI_
 
 # Set the page config
 st.set_page_config(
-    page_title="pDILI_v1: predictor of Drug-Induced Liver Injury a Molecule",
+    page_title="pDILI_v1: predictor of Drug-Induced Liver Injury of a molecule",
     layout="wide",
     page_icon=logo_url
 )
