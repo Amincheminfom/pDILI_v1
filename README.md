@@ -12,16 +12,20 @@ It is also an online tool hosted on Google Colab [![Open In Colab](https://colab
 
 This tool also provides Graphical User Interface (GUI) which can be run through Anaconda environment (in Windows). 
 
-Note: This notebook is a supplementary material of the paper "pDILI_v1: A Machine Learning-Based Tool for Predicting Drug-Induced Liver Injury (DILI) Integrating Chemical Space Analysis and Molecular Fingerprints" (manuscript under preparation).
+Note: This notebook is a part of the article "pDILI_v1: A Web-Based Machine Learning Tool for Predicting Drug-Induced Liver Injury (DILI) Integrating Chemical Space Analysis and Molecular Fingerprints" (ACS Omega, 2025, 10, 13, 13502–13514. DOI: [10.1021/acsomega.5c00075](https://doi.org/10.1021/acsomega.5c00075)).
 
+---
+If you use this tool, please cite:
+> Amin S.A., Kar S., Piotto S. *pDILI_v1: A Web-Based Machine Learning Tool for Predicting Drug-Induced Liver Injury (DILI) Integrating Chemical Space Analysis and Molecular Fingerprints*. ACS Omega, 2025, 10, 13, 13502–13514. DOI: [10.1021/acsomega.5c00075](https://doi.org/10.1021/acsomega.5c00075)
+
+---
 # For Web Application Users:
 The **pDILI_v1** web application can be used by following [This Link](https://pdiliv1web.streamlit.app/).
 
 Just enter a SMILES string to predict its DILI-Risk (RISKy / Non.RISKy)!
 
----
-Example SMILES:
 
+Example SMILES:
 (a) Sorbitol: C(C(C(C(C(CO)O)O)O)O)O
 
 (b) Almotriptan: CN(C)CCC1=CNC2=C1C=C(C=C2)CS(=O)(=O)N3CCCC3
