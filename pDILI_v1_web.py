@@ -88,7 +88,7 @@ st.title("pDILI_v1: predictor of Drug-Induced Liver Injury")
 about_expander = st.expander("What is pDILI_v1?", expanded=True)
 with about_expander:
     st.write('''pDILI_v1 is a python package that allows users to predict the association of drug-induced liver injury of a small molecule (1 = RISKy, 0 = Non-RISKy) and also visualize the molecule.
-               You can read about the theoretical background on pDILI_v1 in our paper. You can find our paper at the following link: [Paper](https://www.scopus.com/authid/detail.uri?authorId=57190176332).''')
+               You can read about the theoretical background on pDILI_v1 in our paper. You can find our paper at the following link: [Paper](https://doi.org/10.1021/acsomega.5c00075).''')
 
 if 'descriptors_df' not in locals():
     # AUTHOR : Dr. Sk. Abdul Amin
